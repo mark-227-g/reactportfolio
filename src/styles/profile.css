@@ -24,7 +24,7 @@ box-sizing, padding, margin
   padding, text-align, background-image
   **************************************/ 
   header {
-    padding: 20px;
+    padding: 5px;
     text-align: left;
     background-image: url("../images/html.png") ;
   }
@@ -35,13 +35,13 @@ box-sizing, padding, margin
   padding, color, background-color, border
   **************************************/
   header p{
-    padding:20px;
+    padding:5px;
     color: black;
     background-color:white;
     border:5px solid grey;
     height:100%;
     width:30%;
-    font-size: 30px;
+    font-size: 20px;
   }
   /*---------- header end -------------*/
   
@@ -108,6 +108,7 @@ box-sizing, padding, margin
     flex: 5;
     width:100%;
     line-height:1.5;
+    padding:25px;
   }
   main section {
     padding:25px;
@@ -126,8 +127,7 @@ box-sizing, padding, margin
   float, width
   **************************************/
   #myphoto {
-    float:right;
-    width:200px;
+    width:100px;
     border: 6px ridge rgb(92, 159, 92);
   }
   /************************************** 
