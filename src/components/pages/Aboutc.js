@@ -1,6 +1,7 @@
 import React from 'react';
 import ProfileImage from '../ProfileImage';
 
+
 class About extends React.Component {
   render(){
     return <div>

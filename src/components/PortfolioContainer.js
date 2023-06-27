@@ -8,7 +8,7 @@ import Header from './pages/Header';
 import Footer from './pages/Footer';
 
 export default function PortfolioContainer() {
-  const [currentPage, setCurrentPage] = useState('Portfolio');
+  const [currentPage, setCurrentPage] = useState('AboutMe');
 
   // This method is checking to see what the value of `currentPage` is. Depending on the value of currentPage, we return the corresponding component to render.
   const renderPage = () => {
@@ -29,6 +29,7 @@ export default function PortfolioContainer() {
 
   return (
     <body>
+
     <Header />
 
     <main>
