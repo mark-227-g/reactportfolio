@@ -1,11 +1,12 @@
 import React from 'react';
 
-export default function Project() {
+export default function Project(props) {
   return (
     <div>
-      <h1>Project</h1>
+      <img src={"../assets/images/IMG5347.jpg"} alt="project" ></img>
+      <p>{props.name}</p>
       <p>
-        Home
+        {props.github}
       </p>
     </div>
   );

@@ -233,9 +233,21 @@ box-sizing, padding, margin
   set main footer style  
   background-color
   **************************************/ 
-  main footer {
-  background-color:rgb(92, 159, 92);
-  height:100px;
+   footer {
+  padding:5px;
+  background-image: url("../images/html.png") ;
+  width:100%;
+  
+  
+  }
+  footer  span{
+    padding:5px;
+    color: black;
+    background-color:white;
+    border:1px solid grey;
+    height:100%;
+
+    font-size: 20px;
   }
   
   /************************************** 

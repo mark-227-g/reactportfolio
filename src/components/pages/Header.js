@@ -1,5 +1,5 @@
 import React from 'react';
-import '../../styles/profile.css';
+
 
 export default function Header() {
   return (
