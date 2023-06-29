@@ -7,24 +7,22 @@ export default function Portfolio() {
     <div class="container">
     <div class="row">
         <span class="col ">
-        <Project name="socialnetwork" github="https://github.com/mark-227-g/socialnetwork" img="./assets/images"></Project>
+        <Project name="Social Network" github="https://github.com/mark-227-g/socialnetwork" img="./assets/images/blog.png"></Project>
         </span>
         <span class="col ">
-      <Project name="ecommerce" github="https://github.com/mark-227-g/ecommerce" img="./assets/images"></Project>
+      <Project name="Note Taker" github="https://github.com/mark-227-g/notetaker" img="./assets/images/ecommerce.png"></Project>
       </span>
-
         <span class="col">
-        <Project name="stellarwatch" github="https://github.com/mark-227-g/stellarwatch" img="./assets/images"></Project>
+        <Project name="Stellar Watch" github="https://github.com/mark-227-g/stellarwatch" img="./assets/images/stellar.png"></Project>
         </span>
         <span class="col">
-        <Project name="mealplanner" github="https://github.com/mark-227-g/mealplanner" img="./assets/images"></Project>
+        <Project name="Meal Planner" github="https://github.com/mark-227-g/mealplanner" img="./assets/images/mealplanner.png"></Project>
         </span>
-
       <span class="col">
-        <Project name="weatherdashboard" github="https://github.com/mark-227-g/weatherdashboard" img="./assets/images"></Project>
+        <Project name="Weather" github="https://github.com/mark-227-g/weatherdashboard" img="./assets/images/weather.png"></Project>
         </span>
         <span class="col">
-        <Project name="cmsblog" github="https://github.com/mark-227-g/cmsblog" img="./assets/images"></Project>
+        <Project name="e-Commerce" github="https://github.com/mark-227-g/ecommerce" img="./assets/images/ecommerce.png"></Project>
         </span>
     </div>
     </div>

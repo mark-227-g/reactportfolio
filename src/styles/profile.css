@@ -139,19 +139,26 @@ box-sizing, padding, margin
     background-color:white;
     padding:15px;
   }
-  #work {
+  .work {
     background-color:lightgray;
     display:flex;
     flex-wrap:wrap;
+    font-size: 20px;
+    font-weight:bold;
   }
   /************************************** 
   work a style for
   padding, position
   **************************************/ 
-  #work a  {
+  .work a  {
     padding:10px;
     position:relative;
   }
+  .work a img  {
+    
+      width: 200px;
+      border: 6px ridge rgb(92, 159, 92);
+    }
   /************************************** 
   used to make first work image larger
   workfirst class style for

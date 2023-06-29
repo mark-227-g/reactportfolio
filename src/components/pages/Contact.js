@@ -1,11 +1,13 @@
 import React from 'react';
 import '../../styles/profile.css';
+import ContactForm from "../ContactForm"
 
 export default function Contact() {
   return (
     <div>
       <h1>Contact</h1>
       <p>
+        <ContactForm />
       <ul>
           <li>Phone: 1-973-953-6258</li>
           <li><a href="mailto:marko65e@gmail.com">email: marko65e@gmail.com</a></li>
