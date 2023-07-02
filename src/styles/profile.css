@@ -27,14 +27,21 @@ box-sizing, padding, margin
     padding: 5px;
     text-align: left;
     background-image: url("../images/html.png") ;
+
   }
+  header div {
+    align-content: end;
+    display:grid;
+  }
+
+  
   /************************************** 
   Used for name box in heading
   Set header p style for
   height, width, font-size
   padding, color, background-color, border
   **************************************/
-  header p{
+  .headingtitle {
     padding:5px;
     color: black;
     background-color:white;
@@ -97,7 +104,12 @@ box-sizing, padding, margin
     background-color: white;
   }
   /*------ navigation end -------------*/
-  
+  .nav-item a {
+    background-color: grey;
+    color: white;
+    text-decoration: none;
+  }
+
   
   /*------ main start     -------------*/
   /************************************** 

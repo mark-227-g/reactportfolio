@@ -6,6 +6,10 @@ export default function Home() {
     <div>
       <h1>Resume Page</h1>
       <p>
+        Download my Resume
+        front-end llll
+        ldlldldld
+        dldldld
         
       </p>
     </div>

@@ -1,13 +1,11 @@
 import React from 'react';
 
 
-export default function Header() {
+export default function HeadingTitle() {
   return (
-    <header>
     <p>
         Mark Edwards<br/> 
         Director of Engineering
     </p>
-</header>
   )
 }
