@@ -248,6 +248,14 @@ box-sizing, padding, margin
     color:black;
   }
   
+  .contactform{
+    padding:30px;
+    background-color: darkblue;
+    color:white
+  }
+  .contactform div {
+    margin:5px;
+  }
   /************************************** 
   set main footer style  
   background-color
@@ -259,15 +267,28 @@ box-sizing, padding, margin
   
   
   }
-  footer  span{
-    padding:5px;
+  footer  text{
+    padding:10px;
     color: black;
     background-color:white;
     border:1px solid grey;
     height:100%;
-
+    margin-left:10px;
     font-size: 20px;
   }
+  #social {
+    display:flex;
+    justify-content: center;
+  }
+  #social img{
+    margin-left:20px;
+    background-color:white;
+    padding:5px;
+    height:100%;
+  }
+
+
+  
   
   /************************************** 
   set media settings  
