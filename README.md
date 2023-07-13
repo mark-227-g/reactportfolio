@@ -10,7 +10,7 @@ Mark Edwards
 
 ## Deployment
 
-[Live](https://mark-227-g.github.io/reactportfolio/)
+[Link to live portfolio](https://mark-227-g.github.io/reactportfolio/)
 
 ### Screenshot
   
