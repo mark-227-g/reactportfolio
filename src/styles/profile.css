@@ -157,6 +157,13 @@ box-sizing, padding, margin
     flex-wrap:wrap;
     font-size: 20px;
     font-weight:bold;
+    margin:10px;
+  }
+  .work-header {
+    display:flex;
+  }
+  .work-body {
+    display:flex;
   }
   /************************************** 
   work a style for
@@ -167,8 +174,8 @@ box-sizing, padding, margin
     position:relative;
   }
   .work a img  {
-    
-      width: 200px;
+      flex: 1 1 auto;
+      height: 100px;
       border: 6px ridge rgb(92, 159, 92);
     }
   /************************************** 

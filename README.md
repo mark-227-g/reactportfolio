@@ -1,4 +1,5 @@
 # reactportfolio
+
 React Portfolio
 
 Challenge 20
@@ -9,13 +10,11 @@ Mark Edwards
 
 ## Deployment
 
-## Deployment:
 [Live](https://mark-227-g.github.io/reactportfolio/)
 
 ### Screenshot
   
 * ![screenshot](./src/images/ScreenShot.png)
-
 
 ## User Story
 
@@ -67,4 +66,3 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 * [npm documentation](https://docs.npmjs.com)
 * [React](https://react.dev)
 * [github](https://github.com/mark-227-g/ecommerce)
-  
