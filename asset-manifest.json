@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/reactportfolio/static/css/main.4eccbf28.css",
-    "main.js": "/reactportfolio/static/js/main.8df9dc48.js",
+    "main.css": "/reactportfolio/static/css/main.dc6dcac0.css",
+    "main.js": "/reactportfolio/static/js/main.18e5fa08.js",
     "static/js/787.e29dc422.chunk.js": "/reactportfolio/static/js/787.e29dc422.chunk.js",
+    "static/media/stellar.png": "/reactportfolio/static/media/stellar.174fb47e5b867da705e8.png",
+    "static/media/mealplanner.png": "/reactportfolio/static/media/mealplanner.8ae34f6bc56fbfc8a2aa.png",
+    "static/media/ecommerce.png": "/reactportfolio/static/media/ecommerce.035fedefbfbe948900db.png",
+    "static/media/weather.png": "/reactportfolio/static/media/weather.6c476376251a7bd80403.png",
+    "static/media/markedwardssq.jpg": "/reactportfolio/static/media/markedwardssq.4f87894ce264244db650.jpg",
+    "static/media/blog.png": "/reactportfolio/static/media/blog.0f31162f5d692c08e4d0.png",
     "static/media/html.png": "/reactportfolio/static/media/html.5f3de177cbc2f219cb7c.png",
+    "static/media/note.png": "/reactportfolio/static/media/note.d1f4035fedd90601ce45.png",
     "index.html": "/reactportfolio/index.html",
-    "main.4eccbf28.css.map": "/reactportfolio/static/css/main.4eccbf28.css.map",
-    "main.8df9dc48.js.map": "/reactportfolio/static/js/main.8df9dc48.js.map",
+    "main.dc6dcac0.css.map": "/reactportfolio/static/css/main.dc6dcac0.css.map",
+    "main.18e5fa08.js.map": "/reactportfolio/static/js/main.18e5fa08.js.map",
     "787.e29dc422.chunk.js.map": "/reactportfolio/static/js/787.e29dc422.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4eccbf28.css",
-    "static/js/main.8df9dc48.js"
+    "static/css/main.dc6dcac0.css",
+    "static/js/main.18e5fa08.js"
   ]
 }
